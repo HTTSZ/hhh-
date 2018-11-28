@@ -2,5 +2,6 @@
 **
 void main(int *arg){
 
-	printf("HELLOW");
+	printf("hello£¬world");
 }
+printf("°®Ñ§Ï°hhhh");
